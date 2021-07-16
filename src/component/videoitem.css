@@ -1,0 +1,32 @@
+.flex {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  gap: 10px;
+  margin-bottom: 10px;
+  background-color: rgba(235, 235, 235, 0.644);
+  padding: 10px;
+  border-radius: 5px;
+  max-width: 700px;
+  cursor: pointer;
+}
+
+.flex > img {
+  align-self: flex-start;
+}
+
+.flex2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+strong {
+  color: rgb(65, 61, 61);
+  font-weight: 500;
+}
+
+hr {
+  margin: 2px 0;
+}
