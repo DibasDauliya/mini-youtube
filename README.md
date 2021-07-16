@@ -2,7 +2,7 @@ Mini YouTube made by [ReactJS](https://reactjs.org/) using [API](https://develop
 
 # Getting Started
 
-Create an YouTube API key and add it in `.env` file as:
+Create an YouTube API key and add it in `.env.local` file as:
 
 ```
 REACT_APP_YOUTUBE=YOUR_API_KEY
